@@ -18,8 +18,10 @@ It has following properties :
 Clone this repository into your vs code :- https://github.com/Ankit2002-code/twitter-clone
 
 1. START THE SERVER:   
+
 --> cd server
 --> npm start
-3. START THE CLIENT:
+2. START THE CLIENT:
+
 --> cd client
 --> npm start
