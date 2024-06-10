@@ -17,11 +17,10 @@ It has following properties :
 **HOW TO RUN THIS PROJECT**
 Clone this repository into your vs code :- https://github.com/Ankit2002-code/twitter-clone
 
-1. START THE SERVER:   
+**START SERVER**
+1. cd server
+2. npm start
 
---> cd server
---> npm start
-2. START THE CLIENT:
-
---> cd client
---> npm start
+**START CLIENT**
+1. cd client
+2. npm start
